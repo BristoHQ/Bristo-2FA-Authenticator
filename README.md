@@ -1,4 +1,4 @@
-# Bristo 2FA Authenticator Project Documentation
+# [Bristo 2FA Authenticator Project Documentation](https://github.com/BristoHQ/Bristo-2FA-Authenticator/blob/main/prototype-repos.md)
 
 ## 1. Project Vision
 The **Bristo 2FA Authenticator** is a secure, cloud-based web application designed to deliver a robust Two-Factor Authentication (TOTP) system. Our goal is to provide a highly secure, transparent, and user-friendly platform that generates time-based one-time passwords (TOTP) using a custom-built algorithm. The system includes a dual-backend architecture, an emergency login protocol, mandatory PIN verification for sensitive pages, and a transparency-focused approach to build user trust.
